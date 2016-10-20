@@ -1,4 +1,8 @@
  
+
+  https://youtu.be/K4S0A0ajIWQ  // video of the thing working
+
+
 #include <Servo.h>
 
 Servo myServo;  
